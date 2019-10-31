@@ -1,7 +1,7 @@
 # BlinkingLED [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/MaryamSaeedmehr/BlinkingLED)
 
 
-Blinking LED with Push Button with Atmega16
+Blinking LED with Atmega16 and Push Button
 
 Author : Maryam Saeedmehr
 
@@ -45,9 +45,9 @@ To ptogram your microcontroler in the proteus , just double click on it and choo
 
 ## **Files**
 
-- <a href="https://www.microchip.com/mplab/avr-support/atmel-studio-7">`/dataBase.sql`</a> : This is Database File
-- <a href="https://github.com/MaryamSaeedmehr/TicketingSystem-tornadowebserver/blob/master/server.py">`/server.py`</a> : This is main python File
-- <a href="https://github.com/MaryamSaeedmehr/TicketingSystem-tornadowebserver/blob/master/get.pcapng">`/get.pcapng`</a> : 
+- <a href="https://github.com/MaryamSaeedmehr/BlinkingLED/blob/master/BlinkingLED.asm">`/BlinkingLED.asm`</a> : This is the main assembly File
+- <a href="https://github.com/MaryamSaeedmehr/BlinkingLED/blob/master/BlinkingLED.pdsprj">`/BlinkingLED.pdsprj`</a> : This is emulated circuit in the proteus
+- <a href="https://github.com/MaryamSaeedmehr/BlinkingLED/blob/master/LICENSE">`/LICENSE`</a> : The license of this project
 
 
 
