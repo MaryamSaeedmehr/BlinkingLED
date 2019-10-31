@@ -18,7 +18,7 @@ For implementing this code yourself, You Need to install below applications :
 
 ## Step1 : Create the Asm code in Atmel Studio
 
-Create a new project in the atmel studio and copy (Ctrl+a then Ctrl+c) <a href="">`SourceCode`</a> and paste it into your new project.
+Create a new project in the atmel studio and copy (Ctrl+a then Ctrl+c) <a href="https://github.com/MaryamSaeedmehr/BlinkingLED/blob/master/BlinkingLED.asm">`SourceCode`</a> and paste it into your new project.
 
 
 ## Step2 : Build your project
